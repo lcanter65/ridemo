@@ -42,5 +42,9 @@
     <orderEntry type="library" scope="PROVIDED" name="railties (v3.0.9, ruby-1.9.2-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.8, ruby-1.9.2-p0) [gem]" level="application" />
   </component>
+  <component name="RModuleSettingsStorage">
+    <LOAD_PATH number="0" />
+    <I18N_FOLDERS number="1" string0="$MODULE_DIR$/config/locales" />
+  </component>
 </module>
 
